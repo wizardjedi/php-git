@@ -1,0 +1,5 @@
+digraph {Lbecfbe72b38f7a1f3854e43ec80203c37a70c4b8 -> L199ae8ccfb3a201d44bef89d65d3d552172d6e7a[label="Commit to b2"];
+L199ae8ccfb3a201d44bef89d65d3d552172d6e7a -> L9390aab937756f5216fe2286c208437709de6212[label="Second commit"];
+L2f5d291a826184d1154b8b53a031e0d13c3071a5 -> L199ae8ccfb3a201d44bef89d65d3d552172d6e7a[label="3rd commit"];
+L199ae8ccfb3a201d44bef89d65d3d552172d6e7a -> L9390aab937756f5216fe2286c208437709de6212[label="Second commit"];
+}
