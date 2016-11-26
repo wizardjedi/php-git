@@ -20,4 +20,5 @@ Clone repo from `data/test-prj` to any dir, make some commits and view on page: 
  * http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/ Git in haskell
  * https://bitbucket.org/ssaasen/git/src/master/Documentation/technical/pack-format.txt Pack file format from Git docs
  * https://git-scm.com/book/en/v2/Git-Internals-Git-Objects git objects
+ * https://github.com/gitster/git/blob/master/Documentation/technical/pack-protocol.txt 
  * 
