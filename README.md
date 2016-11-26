@@ -21,4 +21,4 @@ Clone repo from `data/test-prj` to any dir, make some commits and view on page: 
  * https://bitbucket.org/ssaasen/git/src/master/Documentation/technical/pack-format.txt Pack file format from Git docs
  * https://git-scm.com/book/en/v2/Git-Internals-Git-Objects git objects
  * https://github.com/gitster/git/blob/master/Documentation/technical/pack-protocol.txt 
- * 
+ * http://git.rsbx.net/Documents/Git_Data_Formats.txt
